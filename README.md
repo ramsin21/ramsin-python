@@ -1,4 +1,4 @@
-# ramsin-python![logo](https://github.com/ramsin21/ramsin21/blob/main/1.jpg)
+# ramsin21![logo](https://github.com/ramsin21/ramsin21/blob/main/1.jpg)
 <h1 align="center">Hi 👋, I'm ramsin</h1>
 <h3 align="center">I am a computer engineering student from Iran. </h3>
 
